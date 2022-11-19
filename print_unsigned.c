@@ -11,7 +11,7 @@ int print_unsig(unsigned int n)
 
 	if (n == 0)
 		count = 1;
-	
+
 	while (num_copy != 0)
 	{
 		num_copy = num_copy / 10;

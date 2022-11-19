@@ -8,10 +8,10 @@ int print_bi(unsigned int n)
 {
 	unsigned int a, b, c, d, f;
 	int count = 0;
-	
+
 	b = n;
 	c = 1;
-	
+
 	for (a = 1 ; b > 1 ; a++)
 	{
 		b = b / 2;
